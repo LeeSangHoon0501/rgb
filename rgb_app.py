@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 st.set_page_config(
-    page_title='컴퓨터가 보는 세상'
+    page_title='인공지능이 보는 세상'
 )
 
 st.title(':computer:인공지능이 보는 세상')
