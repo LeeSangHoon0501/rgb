@@ -6,8 +6,7 @@ st.set_page_config(
     page_title='인공지능이 보는 세상'
 )
 
-st.title(':computer:[군포중앙고] 물리학1')
-st.title('CCD가 보는 세상')
+st.title(':computer:CCD가 보는 세상')
 st.divider()
 
 col1, col2, col3 = st.columns([2, 1, 2])
